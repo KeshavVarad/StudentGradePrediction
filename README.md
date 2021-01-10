@@ -1,6 +1,8 @@
 # StudentGradePrediction
 A linear regression model to predict student grades in a math class
 
+## Data From: https://archive.ics.uci.edu/ml/datasets/Student+Performance
+
 ## Features Used
 * First Period Grade
 * Second Period Grade
